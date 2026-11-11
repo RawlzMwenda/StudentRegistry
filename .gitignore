@@ -1,1 +1,7 @@
-target/\n.idea/\n*.iml\n.classpath\n.project\n.settings/\n
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+out/
